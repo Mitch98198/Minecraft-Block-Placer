@@ -1,0 +1,14 @@
+/setblock 23 146  28 minecraft:stone
+/setblock 23 146  29 minecraft:stone
+/setblock 23 146  30 minecraft:stone
+/setblock 23 146  31 minecraft:stone
+/setblock 23 146  32 minecraft:stone
+/setblock 23 147  27 minecraft:stone
+/setblock 23 147  28 minecraft:stone
+/setblock 23 147  29 minecraft:stone
+/setblock 23 147  30 minecraft:stone
+/setblock 23 147  31 minecraft:stone
+/setblock 23 147  32 minecraft:stone
+/setblock 23 148  26 minecraft:stone
+/setblock 23 148  27 minecraft:stone
+/setblock 23 148  28 minecraft:stone
